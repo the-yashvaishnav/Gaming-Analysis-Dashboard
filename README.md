@@ -5,7 +5,7 @@ This project presents an interactive dashboard to analyze gaming data, including
 
 ## 📊 Tools Used
 - Tableau
-
+- 
 ## 📈 Key Insights
 - Total Games
 - Top Developers by Number of Games 
