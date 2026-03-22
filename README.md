@@ -28,4 +28,4 @@ https://github.com/the-yashvaishnav/Gaming-Analysis-Dashboard/blob/main/Gaming%2
 - Year-wise Global Sales Analysis
 
 ## 📷 Screeshots
-
+https://github.com/the-yashvaishnav/Gaming-Analysis-Dashboard/blob/main/Gaming%20Analysis%20Dashboard%202.png
