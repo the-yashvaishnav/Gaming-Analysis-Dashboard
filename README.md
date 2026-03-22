@@ -5,7 +5,7 @@ This project presents an interactive dashboard to analyze gaming data, including
 
 ## 📊 Tools Used
 - Tableau
-- 
+  
 ## 📈 Key Insights
 - Total Games
 - Top Developers by Number of Games 
@@ -13,7 +13,7 @@ This project presents an interactive dashboard to analyze gaming data, including
 - Top Selling Games by Global Sales
 
 ## 📷 Screeshots
-
+https://github.com/the-yashvaishnav/Gaming-Analysis-Dashboard/blob/main/Gaming%20Analysis%20Dashboard%201.png
 
 
 # Gaming-Analysis-Dashboard 2
@@ -21,9 +21,11 @@ This project presents an interactive dashboard to analyze gaming data, including
 ## 📊 Tools Used
 - Tableau
 
-- 
 ## 📈 Key Insights
 - Total Games
 - Total Sales
 - Average User Score by Genre
 - Year-wise Global Sales Analysis
+
+## 📷 Screeshots
+
